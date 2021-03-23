@@ -6,7 +6,7 @@ class Database{
     private $db_name = "hospital_db";
     private $username = "root";
     private $password = "";
-    private $port = "3306"
+    private $port = "3306";
     public $conn;
  
     // get the database connection
