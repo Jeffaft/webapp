@@ -2,7 +2,7 @@
 class Database{
  
     // specify your own database credentials
-    private $host = "172.17.0.3";
+    private $host = "localhost";
     private $db_name = "hospital_db";
     private $username = "root";
     private $password = "superpw";
