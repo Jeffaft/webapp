@@ -2,10 +2,10 @@
 class Database{
  
     // specify your own database credentials
-    private $host = "localhost";
+    private $host = "172.17.0.3";
     private $db_name = "hospital_db";
     private $username = "root";
-    private $password = "";
+    private $password = "superpw";
     private $port = "3306";
     public $conn;
  
